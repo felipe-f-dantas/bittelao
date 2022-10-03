@@ -1,0 +1,98 @@
+ID do ticket,Assunto,Status,Analista,Grupo,Hora da criação,Hora da resolução,Hora do fechamento,Tempo de resposta inicial,Tempo até a primeira resposta (em horas),Tempo de resolução (em horas),Categorização do ticket,Motivo do contato,Cliente MOBS2,Identificação do Veículo
+2029769,SOLICITAÇÃO DE ALARME,Open,Thiago Perez,PLANEJAMENTO Sul/Sudeste,2022-03-18 14:17:20,,,,00:00:00,00:00:00,M2,Solicitar um serviço remoto,MARQUISE,-
+2029975,Manutenção de equipamentos,Em tratamento,Thiago Perez,PLANEJAMENTO Sul/Sudeste,2022-04-01 10:20:28,,,2022-04-05 11:07:53,18:47:25,00:00:00,M2,Solicitar serviço de campo,VILLA,Equipamentos SP
+2030978,Veículo 23120 está gerando eventos fora do padrão,Open,Davi Veloso,SUPORTE TECNICO,2022-06-06 10:53:59,,,2022-06-06 10:56:51,00:02:52,00:00:00,M2,Solicitar serviço de campo,ROMATUR,23120
+2031389,INSTALAÇÃO ONIBUS - QQU4904 - VITORIA ,Em tratamento,RICARDO PALACIO,ENGENHARIA,2022-06-29 14:00:36,,,2022-06-29 16:49:58,02:49:22,00:00:00,M2,Solicitar serviço de campo,LOCAR,QQU4904
+2031406,SOLICITAÇÃO DE MANUTENÇÃO // OPERALOG,Open,Davi Veloso,SUPORTE TECNICO,2022-06-30 09:13:49,,,,00:00:00,00:00:00,M2,Solicitar um serviço remoto,OPERALOG,
+2031741,Veículo 23119 sem comunicar,Open,Davi Veloso,SUPORTE TECNICO,2022-07-20 11:34:11,,,2022-05-25 15:25:33,-348:51:22,00:00:00,M2,Relatar um problema,ROMATUR,23119
+2031757,Veículo 23118 está bipando indevidamente.,Em tratamento,Davi Veloso,SUPORTE TECNICO,2022-07-21 09:14:13,,,2022-07-22 09:12:33,08:58:20,00:00:00,M2,Relatar um problema,ROMATUR,23118
+2031792,Divergência entre relatório de indicadores e cump. de partidas,Em tratamento,Thacyo Lima,PRODUTOS,2022-07-22 11:14:56,,,2022-07-22 12:58:33,01:43:37,00:00:00,SGF,Relatar um problema,ITAMARACA,
+2031801,Criação de evento novo,Open,De Castro,CRC Sustentação,2022-07-22 13:20:50,,,2022-07-25 08:43:25,04:22:35,00:00:00,M2,Solicitar cadastro,ROMATUR,
+2031938,"Parâmetro carros 31040, 23118 e 21115",Open,Davi Veloso,SUPORTE TECNICO,2022-08-01 18:53:50,,,2022-05-25 16:42:42,-424:42:42,00:00:00,M2,Relatar um problema,ROMATUR,"31040, 23118 e 21115"
+2031983,NOVO STATUS PARA MOTORISTA E VEÍCULO - REGISTRO DIÁRIO,Em tratamento,Thacyo Lima,PRODUTOS,2022-08-03 10:01:19,,,2022-08-04 15:39:32,14:38:13,00:00:00,SGF,Solicitar cadastro,LOCAR,
+2031984,MAPA ,Em tratamento,Thacyo Lima,PRODUTOS,2022-08-03 10:56:53,,,2022-08-04 15:41:16,13:44:23,00:00:00,SGF,Relatar um problema,LOCAR,
+2032064,Melhoria no mapa Ao vivo,Em tratamento,Thacyo Lima,PRODUTOS,2022-08-08 15:35:53,,,,00:00:00,00:00:00,SGF,Melhoria,LOCAR,
+2032108,RELATÓRIO,Em tratamento,Thacyo Lima,PRODUTOS,2022-08-10 11:31:08,,,2022-08-11 08:13:07,05:41:59,00:00:00,M2,Solicitar um serviço remoto,TRANSPORTES CIDADE DO NATAL,
+2032151,V.18028 GERANDO AB E FB COM MUITA SENSIBILIDADE,Open,De Castro,CRC Sustentação,2022-08-12 11:13:53,,,,00:00:00,00:00:00,M2,Relatar um problema,VIMSA,18028
+2032154,MUDANÇA DE PARAMETROS DAS SPRINTER (TESTE OPERACIONAL),Open,De Castro,CRC Sustentação,2022-08-12 11:25:42,,,2022-08-23 08:59:30,60:33:48,00:00:00,M2,Solicitar um serviço remoto,ROMATUR,31002/31040
+2032300,Correção da planilha dos parâmetros,Open,Davi Veloso,SUPORTE TECNICO,2022-08-18 14:07:50,,,2022-08-19 15:01:05,09:53:15,00:00:00,M2,Relatar um problema,MINERACAO CARAIBA,
+2032311,Evento pedal de embreagem,Open,RICARDO PALACIO,ENGENHARIA,2022-08-19 09:15:00,,,2022-08-19 09:26:59,00:11:59,00:00:00,M2,Solicitar serviço de campo,ITAMARACA,Toda a frota MB OF 1721 Itamaracá
+2032413,EVENTO DE MLE GERANDO APENAS COM VALOR ZERADO - VENEZA,Open,Michelly.campello Viana,QUALIDADE,2022-08-25 11:28:33,,,2022-09-04 20:32:46,59:31:27,00:00:00,M2,Solicitar um serviço remoto,VENEZA LOCAÇÃO,"QYQ4F14, QYQ4F14, BES6J28"
+2032555,SEM GERAR DISTÂNCIA,Open,De Castro,CRC Sustentação,2022-08-30 23:17:08,,,2022-07-20 14:35:52,-264:35:52,00:00:00,M2,Relatar um problema,ROMATUR,11267/12211/12214/21115/22212/22116/23122/31040/44009
+2032565,carro 12250 na linha 64A1 marca pontos de saída e chegada invertidos ,Open,Thacyo Lima,PRODUTOS,2022-08-31 10:38:53,,,2022-09-05 10:18:46,26:39:53,00:00:00,SGF,Relatar um problema,ROMATUR,12250
+2032601,Divergência entre Dashboard X Relatório extraídos em Excel,Open,Thacyo Lima,PRODUTOS,2022-09-01 13:09:57,,,2022-09-02 11:42:12,07:32:15,00:00:00,M2,Relatar um problema,,
+2032672,"veículo passa pelo ponto de saída, porém não marca o horário",Open,Davi Veloso,SUPORTE TECNICO,2022-09-05 15:10:26,,,2022-09-05 16:24:07,01:13:41,00:00:00,SGF,Relatar um problema,ROMATUR,12251
+2032686,LIBERAR A CRIAÇÃO DE CERCAS PARA O USUÁRIO BRUNO PÁDUA / EMP. SÃO JOSÉ,Open,De Castro,CRC Sustentação,2022-09-06 11:13:02,,,,00:00:00,00:00:00,M2,Solicitar um serviço remoto,EMPRESA SÃO JOSE,
+2032702,veiculo 23119 está sem comunicação com gps ,Open,Davi Veloso,SUPORTE TECNICO,2022-09-08 11:41:24,,,,00:00:00,00:00:00,SGF,Relatar um problema,ROMATUR,23119
+2032747,carro 23210 está com divergência no trajeto marcado pelo gps ,Open,Davi Veloso,SUPORTE TECNICO,2022-09-09 17:18:58,,,,00:00:00,00:00:00,SGF,Relatar um problema,ROMATUR,23120
+2032761,ENVIAR COMANDO DE FATOR DE CONSUMO - QYZ6H45 e PDZ3416 - NAGEM FROTA,Open,Michelly.campello Viana,QUALIDADE,2022-09-12 09:47:22,,,,00:00:00,00:00:00,M2,Solicitar um serviço remoto,NAGEM FROTA,QYZ6H45 e PDZ3416
+2032791,VEÍCULO OFFF-LINE DESDE 21/01/22,Open,Davi Veloso,SUPORTE TECNICO,2022-09-12 16:36:51,,,,00:00:00,00:00:00,M2,Solicitar serviço de campo,CERAMA,POB 0D12 - CERAMA - 189
+2032800,veículos 23118 e 23119 estão sem comunicação ,Open,Davi Veloso,SUPORTE TECNICO,2022-09-13 09:15:11,,,,00:00:00,00:00:00,M2,Solicitar serviço de campo,ROMATUR,23118 23119
+2032803,Aplicativo Motorista - Somatória de Eventos incorreta,Open,Jomasio Silva,CRC Sustentação,2022-09-13 09:52:54,,,2022-09-13 11:39:20,01:46:26,00:00:00,M2,Relatar um problema,EMPRESA SÃO JOSE,
+2032812,Relatório de indicadores apresentando erro,Open,Thacyo Lima,PRODUTOS,2022-09-13 14:39:55,,,,00:00:00,00:00:00,SGF,Relatar um problema,TRAMPOLIM,
+2032849,Veículo 21239 com mau funcionamento no GPS,Em tratamento,Jomasio Silva,CRC Sustentação,2022-09-14 16:26:34,,,2022-09-14 19:49:22,00:33:26,00:00:00,SGF,Relatar um problema,ROMATUR,21239
+2032851,23120 veículo passou pelo ponto e marcou o horário com atraso ,Open,Jomasio Silva,CRC Sustentação,2022-09-14 16:36:10,,,2022-09-14 19:49:00,00:23:50,00:00:00,SGF,Relatar um problema,ROMATUR,23120
+2032852,21239 não passou pelo ponto de início da linha por imprecisão no gps,Em tratamento,Jomasio Silva,CRC Sustentação,2022-09-14 16:42:06,,,2022-09-14 19:49:08,00:17:54,00:00:00,SGF,Relatar um problema,ROMATUR,21239
+2032853,12254 não passou pelo ponto de início da linha por imprecisão no gps,Em tratamento,Jomasio Silva,CRC Sustentação,2022-09-14 17:00:58,,,2022-09-14 19:49:12,00:00:00,00:00:00,SGF,Relatar um problema,ROMATUR,12254
+2032860,LINHAS NO REPLAY NÃO CARREGAM,Open,Thacyo Lima,PRODUTOS,2022-09-15 08:48:31,,,,00:00:00,00:00:00,SGF,Relatar um problema,,
+2032890,INSTALAÇÃO GPS/TELEMETRIA,Em tratamento,Davi Veloso,SUPORTE TECNICO,2022-09-15 16:24:55,,,2022-10-01 14:44:12,99:35:05,00:00:00,M2,Solicitar cadastro,LOCAR,JBI 5I89; RIR 7F29; RJE 6H10; RKJ 7A33 e RKJ 7A35
+2032899,Carros não baixam viagens completas do dia,Em tratamento,Jomasio Silva,CRC Sustentação,2022-09-16 09:24:32,,,,00:00:00,00:00:00,M2,Relatar um problema,SILAS,SILAS/VIMSA
+2032900,carro 12214 não marca o ponto de início por imprecisão no gps,Em tratamento,Emerson Pascoal,CRC Sustentação,2022-09-16 09:37:30,,,2022-09-16 14:51:25,05:13:55,00:00:00,SGF,Relatar um problema,ROMATUR,12214
+2032901,Problema nos Dashboard do Eventos x Consumo ,Em tratamento,Jomasio Silva,CRC Sustentação,2022-09-16 09:39:04,,,2022-09-16 18:21:57,07:20:56,00:00:00,M2,Relatar um problema,MARQUISE,
+2032925,VEÍCULO NÃO IDENTIFICA MOTORISTA ,Open,Davi Veloso,SUPORTE TECNICO,2022-09-16 15:15:29,,,,00:00:00,00:00:00,M2,Relatar um problema,CAEL,OYU 5004
+2032991,Manutenção nos rastreadores de veículos,Open,Davi Veloso,SUPORTE TECNICO,2022-09-21 10:49:17,,,2022-09-30 13:39:19,65:50:02,00:00:00,M2,Solicitar serviço de campo,MB LIMPEZA URBANA,RKC1H60 (CEARÁ MIRIM); RJC1F03 (BOM JESUS); JAX6H37 (PEDRO VELHO); RKT1J65 (PATOS); RJC1F00 (PATOS); RKB1G27 (PATOS)
+2033007,INPLANTAR EVENTO DE TEMPO DE ACIONAMENTO DO PEDAL DE EMBREAGEM,Open,De Castro,CRC Sustentação,2022-09-21 16:28:20,,,2022-09-22 18:24:04,09:31:40,00:00:00,SGF,Melhoria,MARQUISE,
+2033015,FALHA NA MARCAÇÃO DE GPS,Open,Davi Veloso,SUPORTE TECNICO,2022-09-22 09:03:55,,,2022-09-23 06:31:14,07:56:05,00:00:00,SGF,Relatar um problema,LOCAR,PCL-4606
+2033019,Carro não gera KM/EVENTOS,Open,Davi Veloso,SUPORTE TECNICO,2022-09-22 09:10:58,,,,00:00:00,00:00:00,M2,Relatar um problema,TRAMPOLIM,901
+2033033,SEM BIPA,Open,Davi Veloso,SUPORTE TECNICO,2022-09-22 18:22:54,,,,00:00:00,00:00:00,M2,Relatar um problema,TRANSPORTES CIDADE DO NATAL,Nº ORDEM 077
+2033046,Veículo não mostra nenhuma informação das viagens,Open,Davi Veloso,SUPORTE TECNICO,2022-09-23 13:37:24,,,2022-09-23 13:46:08,00:08:44,00:00:00,M2,Solicitar serviço de campo,CAEL,QYT0c61
+2033062,Criação de cercas,Open,De Castro,CRC Sustentação,2022-09-23 15:49:32,,,2022-09-24 13:55:18,01:10:28,00:00:00,M2,Solicitar cadastro,PLATAFORMA,frota plataforma
+2033063,veículo 11255 não registra eventos,Open,Davi Veloso,SUPORTE TECNICO,2022-09-23 17:28:06,,,,00:00:00,00:00:00,M2,Relatar um problema,ROMATUR,11255
+2033066,Veículo encontra-se Off-Line,Em tratamento,Thiago Perez,PLANEJAMENTO Sul/Sudeste,2022-09-26 08:33:56,,,,00:00:00,00:00:00,M2,Relatar um problema,MARQUISE,01-655-19
+2033067,Instabilidade na comunicação dos veículos,Pending,De Castro,CRC Sustentação,2022-09-26 08:42:01,,,2022-09-26 11:26:11,02:44:10,00:00:00,SGF,Relatar um problema,CONORTE,
+2033071,BUTTON ,Open,JOAO HEUDIS,INSTRUÇÃO TÉCNICA,2022-09-26 10:51:02,,,2022-09-26 11:03:58,00:12:56,00:00:00,SGF,Solicitar cadastro,CAEL,SOLICITAÇÕES DE BUTTON
+2033072,Temperatura: Alerta de Evento Crítico não recebido por e-mail,Open,De Castro,CRC Sustentação,2022-09-26 12:00:14,,,2022-09-27 13:11:27,10:11:13,00:00:00,M2,Relatar um problema,CIDADE ALTA,1020
+2033075,GERANDO EVENTOS IRREGULARES,Open,Emerson Pascoal,CRC Sustentação,2022-09-26 13:56:01,,,,00:00:00,00:00:00,M2,Relatar um problema,CARUARUENSE,733
+2033077,bipe indevido dentro das cercas,Open,De Castro,CRC Sustentação,2022-09-26 14:48:23,,,2022-09-28 08:11:08,11:22:45,00:00:00,M2,Relatar um problema,PLATAFORMA,Frota plataforma
+2033081,GERANDO EVENTOS IRREGULARES,Open,Davi Veloso,SUPORTE TECNICO,2022-09-26 16:48:02,,,,00:00:00,00:00:00,M2,Relatar um problema,CARUARUENSE,736
+2033085,RFID COM DEFEITO,Open,Davi Veloso,SUPORTE TECNICO,2022-09-27 08:12:11,,,,00:00:00,00:00:00,M2,Relatar um problema,TRAMPOLIM,115
+2033086,EVENTOS INCONSISTENTES,Open,Davi Veloso,SUPORTE TECNICO,2022-09-27 08:14:11,,,,00:00:00,00:00:00,M2,Relatar um problema,TRAMPOLIM,309
+2033088,RFID COM DEFEITO,Open,Davi Veloso,SUPORTE TECNICO,2022-09-27 08:15:56,,,,00:00:00,00:00:00,M2,Relatar um problema,TRAMPOLIM,700
+2033099,EVENTOS INCONSISTENTES,Open,Davi Veloso,SUPORTE TECNICO,2022-09-27 10:31:22,,,,00:00:00,00:00:00,M2,Relatar um problema,TRAMPOLIM,12
+2033100,BANGUELA,Open,Davi Veloso,SUPORTE TECNICO,2022-09-27 10:32:07,,,2022-09-27 12:40:54,02:08:47,00:00:00,M2,Relatar um problema,TRAMPOLIM,13
+2033101,KM SUPERIOR,Open,Davi Veloso,SUPORTE TECNICO,2022-09-27 10:32:45,,,2022-09-27 15:48:36,05:15:51,00:00:00,M2,Relatar um problema,TRAMPOLIM,14
+2033109,GERANDO EVENTOS IRREGULARES,Open,Davi Veloso,SUPORTE TECNICO,2022-09-27 15:54:41,,,,00:00:00,00:00:00,M2,Relatar um problema,CARUARUENSE,647
+2033111,Instalação de equipamento,Open,Davi Veloso,SUPORTE TECNICO,2022-09-28 06:24:50,,,2022-09-28 07:30:57,00:00:00,00:00:00,M2,Solicitar serviço de campo,GRUPO EXPRESS,Areias Express
+2033113,RFID COM DEFEITO ,Open,Davi Veloso,SUPORTE TECNICO,2022-09-28 10:10:40,,,,00:00:00,00:00:00,M2,Relatar um problema,TRAMPOLIM,116
+2033114,RFID COM DEFEITO,Open,Davi Veloso,SUPORTE TECNICO,2022-09-28 10:11:15,,,,00:00:00,00:00:00,M2,Relatar um problema,TRAMPOLIM,117
+2033115,KM/CONSUMO/EVENTO,Open,Davi Veloso,SUPORTE TECNICO,2022-09-28 10:12:07,,,2022-09-28 11:43:50,01:31:43,00:00:00,M2,Relatar um problema,TRAMPOLIM,250
+2033116,KM/CONSUMO/EVENTO,Open,Davi Veloso,SUPORTE TECNICO,2022-09-28 10:12:47,,,,00:00:00,00:00:00,M2,Relatar um problema,TRAMPOLIM,251
+2033117,KM/CONSUMO,Open,Davi Veloso,SUPORTE TECNICO,2022-09-28 10:13:49,,,2022-09-28 12:08:58,01:55:09,00:00:00,M2,Relatar um problema,TRAMPOLIM,302
+2033118,EVENTOS INCONSISTENTES,Open,Davi Veloso,SUPORTE TECNICO,2022-09-28 10:15:45,,,,00:00:00,00:00:00,M2,Relatar um problema,TRAMPOLIM,352
+2033119,KM,Open,Davi Veloso,SUPORTE TECNICO,2022-09-28 10:16:57,,,,00:00:00,00:00:00,M2,Relatar um problema,TRAMPOLIM,810
+2033139,30013 sem bipar,Open,Davi Veloso,SUPORTE TECNICO,2022-09-29 07:36:58,,,,00:00:00,00:00:00,M2,Relatar um problema,PLATAFORMA,30013*
+2033140,Veículo 92620 verificar rifav ,Open,Davi Veloso,SUPORTE TECNICO,2022-09-29 07:37:40,,,,00:00:00,00:00:00,M2,Relatar um problema,LITORAL NORTE,Veículo 92620
+2033145,30430 offline,Open,Davi Veloso,SUPORTE TECNICO,2022-09-29 07:56:26,,,,00:00:00,00:00:00,M2,Relatar um problema,PLATAFORMA,30430*
+2033151,RIFID sem identificar,Open,Davi Veloso,SUPORTE TECNICO,2022-09-29 11:13:20,,,,00:00:00,00:00:00,M2,Relatar um problema,ITAMARACA,1670
+2033154,novo cadastro,Open,Davi Veloso,SUPORTE TECNICO,2022-09-29 14:10:24,,,,00:00:00,00:00:00,M2,Solicitar cadastro,BRASCON RESÍDUOS,PDA0B69
+2033159,30594 não baixa viagens,Open,Davi Veloso,SUPORTE TECNICO,2022-09-29 15:00:10,,,,00:00:00,00:00:00,M2,Relatar um problema,PLATAFORMA,30594*
+2033164,"",Open,Davi Veloso,SUPORTE TECNICO,2022-09-29 15:22:04,,,,00:00:00,00:00:00,M2,Solicitar serviço de campo,BORBOREMA,287
+2033170,Relatar um problema,Open,Emerson Pascoal,CRC Sustentação,2022-09-29 15:34:23,,,,00:00:00,00:00:00,M2,Relatar um problema,BORBOREMA,294
+2033176,Solicita ajuste em relatório,Open,Thacyo Lima,No Group,2022-09-29 18:42:39,,,,00:00:00,00:00:00,SGF,Melhoria,,
+2033177,VEÍCULO 596 - SEM BAIXAR VIAGENS,Open,Davi Veloso,SUPORTE TECNICO,2022-09-29 23:06:06,,,,00:00:00,00:00:00,M2,Solicitar serviço de campo,OPERALOG,596
+2033178,Relatar um problema,Open,Davi Veloso,SUPORTE TECNICO,2022-09-30 07:50:59,,,,00:00:00,00:00:00,M2,Solicitar serviço de campo,BORBOREMA,401
+2033183,Relatar um problema,Open,Emerson Pascoal,No Group,2022-09-30 08:00:11,,,,00:00:00,00:00:00,M2,,,538
+2033184,Relatar um problema,Open,Davi Veloso,SUPORTE TECNICO,2022-09-30 08:06:12,,,,00:00:00,00:00:00,M2,Solicitar serviço de campo,BORBOREMA,605
+2033191,Manutenção nos rastreadores de veículos,Open,Davi Veloso,SUPORTE TECNICO,2022-09-30 09:02:28,,,,00:00:00,00:00:00,M2,Relatar um problema,MB LIMPEZA URBANA,RJC1F03
+2033192,Manutenção nos rastreadores de veículos,Open,Davi Veloso,SUPORTE TECNICO,2022-09-30 09:06:59,,,,00:00:00,00:00:00,M2,Relatar um problema,MB LIMPEZA URBANA,JAX6H51
+2033193,Manutenção nos rastreadores de veículos,Open,Davi Veloso,SUPORTE TECNICO,2022-09-30 09:13:07,,,,00:00:00,00:00:00,M2,Relatar um problema,MB LIMPEZA URBANA,RKT1J65; RKB1G27; RJC1F00; RJC1F07
+2033194,PROBLEMA NA IDENTIFICAÇÃO DO CONDUTOR,Open,Davi Veloso,SUPORTE TECNICO,2022-09-30 09:28:41,,,,00:00:00,00:00:00,M2,Relatar um problema,TRANSPORTES CIDADE DO NATAL,Nº ORDEM 077 QGG6189
+2033195,30058 sem bipar,Open,Davi Veloso,SUPORTE TECNICO,2022-09-30 10:54:24,,,,00:00:00,00:00:00,M2,Relatar um problema,PLATAFORMA,30058*
+2033196,30083 RFID com defeito,Open,Davi Veloso,SUPORTE TECNICO,2022-09-30 11:09:36,,,,00:00:00,00:00:00,M2,Relatar um problema,PLATAFORMA,30083*
+2033197,30245 não baixa viagens,Open,Davi Veloso,SUPORTE TECNICO,2022-09-30 11:10:29,,,,00:00:00,00:00:00,M2,Relatar um problema,PLATAFORMA,30245*
+2033198,30392 RFID com defeito,Open,Davi Veloso,SUPORTE TECNICO,2022-09-30 11:12:30,,,,00:00:00,00:00:00,M2,Relatar um problema,PLATAFORMA,30392*
+2033199,30674 offline,Open,Davi Veloso,SUPORTE TECNICO,2022-09-30 11:14:45,,,,00:00:00,00:00:00,M2,Relatar um problema,PLATAFORMA,30674*
+2033201,30559 offline,Open,Davi Veloso,SUPORTE TECNICO,2022-09-30 11:21:45,,,,00:00:00,00:00:00,M2,Relatar um problema,PLATAFORMA,30559*
+2033205,INSTALAÇÃO GPS/TELEMETRIA,Open,Davi Veloso,SUPORTE TECNICO,2022-09-30 13:49:19,,,,00:00:00,00:00:00,M2,Solicitar serviço de campo,LOCAR,10 VEÍCULOS
+2033210,30674 offline,Open,Davi Veloso,SUPORTE TECNICO,2022-09-30 16:28:54,,,,00:00:00,00:00:00,M2,Relatar um problema,PLATAFORMA,30674*
+2033214,TROCA DE EQUIPAMENTO,Open,Thiago Perez,PLANEJAMENTO Sul/Sudeste,2022-10-01 15:57:45,,,,00:00:00,00:00:00,M2,Solicitar serviço de campo,VENEZA LOCAÇÃO,6J28
